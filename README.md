@@ -13,7 +13,7 @@ File Explorer, previously known as Windows Explorer, is a  File manager applicat
   - Sort files and folders (by Ascending & descending & modified time)
   - Quick-access locations
   - Navigate by path
-	- maximize and minimize the window
+  - maximize and minimize the window
   - activity log (book all the action happend in XML file with details of the PC/User)
 # Project Proposal
 https://docs.google.com/document/d/1ky6tsslo0Y9NPmHF1IPCf40FbDagt5TJXAfAk9xO1BM/edit
