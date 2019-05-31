@@ -7,8 +7,11 @@ File Explorer, previously known as Windows Explorer, is a  File manager applicat
   - Make new folder
   - Navigation history (back only)
   - Find by typing
-	- Explode folder (list all inner items in folder)
-	- Path-box with navigation by path & name & extention & type & size & modified time 
+  - Explode folder (list all inner items in folder)
+  - Path-box with navigation by path & name & extention & type & size & modified time 
+  - Quick rename
+  - Sort files and folders (by Ascending & descending & modified time)
+  - Quick-access locations
 # Project Proposal
 https://docs.google.com/document/d/1ky6tsslo0Y9NPmHF1IPCf40FbDagt5TJXAfAk9xO1BM/edit
 ### Screenshot
