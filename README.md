@@ -4,7 +4,6 @@ File Explorer, previously known as Windows Explorer, is a  File manager applicat
 https://docs.google.com/document/d/1ky6tsslo0Y9NPmHF1IPCf40FbDagt5TJXAfAk9xO1BM/edit
 ### Screenshot
 
-![Dayoftheweek_alcohol](https://github.com/AmiinaAhmed/FileExplorer-WPF/blob/master/Screenshot/Capture.PNG)
-
+![Dayoftheweek_alcohol](https://github.com/AmiinaAhmed/FileExplorer-WPF/blob/master/Screenshot/Capture.png)
 
 
